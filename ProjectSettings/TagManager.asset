@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - mainCar
+  - Ground
+  - Sollama
+  - Gameover
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Arkaplan
+    uniqueID: 1966946093
+    locked: 0
+  - name: Yol
+    uniqueID: 344412853
+    locked: 0
+  - name: CarNpc
+    uniqueID: 722868725
+    locked: 0
+  - name: MainCar
+    uniqueID: 1842914417
+    locked: 0
+  - name: Vinyet
+    uniqueID: 1332557917
+    locked: 0
+  - name: Canvas
+    uniqueID: 3400332639
+    locked: 0
